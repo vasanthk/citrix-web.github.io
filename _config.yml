@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Citrix Web
+tagline:             'Tech Blog'
+description:         'Tech blog to discuss and share knowlege on Web related topics'
+url:                 http://www.citrix.com/
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Citrix Web team
+  url:               https://twitter.com/citrix
+  email:             vasanth.citrix@gmail.com
+
+# Custom vars
+version:             1.0.0
