@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               Citrix Web
-tagline:             'Tech Blog'
-description:         'Tech blog to discuss and share knowlege on Web related topics'
+tagline:             'Blog'
+description:         'Engineering blog for all-things Web'
 url:                 http://www.citrix.com/
 baseurl:             /
 paginate:            5
