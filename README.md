@@ -1,1 +1,1 @@
-# [Citrix Web - Tech Blog](http://citrix-web.github.io/)
+# [My Tech Blog](http://vasanthk.github.io/)
