@@ -9,17 +9,17 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Citrix Web
+title:               Vasa Tech Blog
 tagline:             'Blog'
-description:         'Engineering blog for all-things Web'
-url:                 http://www.citrix.com/
+description:         'Tech blog for all-things Web'
+url:                 http://www.vasanthk.com/
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Citrix Web team
-  url:               https://twitter.com/citrix
+  name:              Vasa Tech Blog
+  url:               https://twitter.com/vasanth_k
   email:             vasanth.citrix@gmail.com
 
 # Custom vars

@@ -1,1 +1,1 @@
-# [Citrix Web - Tech Blog](http://citrix-web.github.io/)
+# [Vasa Tech Blog](http://citrix-web.github.io/)

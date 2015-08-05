@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Citrix Web</title>
+ <title>Vasa tech blog</title>
  <link href="http://www.citrix.com//atom.xml" rel="self"/>
  <link href="http://www.citrix.com//"/>
  <updated>2015-04-23T00:35:08-07:00</updated>
  <id>http://www.citrix.com/</id>
  <author>
-   <name>Citrix Web team</name>
+   <name>Vasa</name>
    <email>vasanth.citrix@gmail.com</email>
  </author>
 
